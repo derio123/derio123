@@ -18,7 +18,7 @@ para empresas e todo o processo de formação na graduação.</p>
     <label><img src="imgs/java.png"><legend>Java</legend></label>
     <label><img src="imgs/php.png"><legend>PHP</legend></label>
     <label><img src="imgs/nodejs.png"><legend>Nodejs</legend></label>
-    <label><img src="imgs/react.png"><legend>Reactjs</legend></label>
+    <label><img src="imgs/reactnative.png"><legend>Reactjs</legend></label>
     <label><img src="imgs/angular.png"><legend>Angular</legend></label>
     <br>
     <label><img src="imgs/ionic.png"><legend>Ionic</legend></label>
