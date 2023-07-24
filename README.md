@@ -1,37 +1,58 @@
-# Derio Matheus
+# Sobre mim
 
-<p>-Olá meu nome é Dério Matheus e sou desenvolvedor de sistemas, criador de logotipos, edição de videos e outros serviços.
+![](https://komarev.com/ghpvc/?username=derio123)
+
+<p align='center'>Olá meu nome é Dério Matheus e sou desenvolvedor de sistemas, criador de logotipos, edição de videos e outros serviços.
 Neste perfil você encontrar vai encontrar os meus projetos desenvolvidos, minhas experiencias, alguns dos projetos pessoais, 
 desenvolvidos para empresas e todo o processo de formação na graduação.</p>
 
-<h2>Experiencias em:</h2>
-
-<p>
-    <label><img src="imgs/html5.png"><legend>Html5</legend></label>
-    <label><img src="imgs/css3.png"><legend>CSS3 & Boostrap</legend></label>
-    <label><img src="imgs/js.png"><legend>JS</legend></label>
-    <label><img src="imgs/jquery.png"><legend>JQuery</legend></label>
+<h2 align='center'>Ferramentas favoritas:</h2>
+<p align='center'>
+    <label><img src="https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=css3&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/Javascript-43853D?style=for-the-badge&logo=javascript&logoColor=yellow"></label> 
     <br>
-    <label><img src="imgs/java.png"><legend>Java</legend></label>
-    <label><img src="imgs/php.png"><legend>PHP</legend></label>
-    <label><img src="imgs/nodejs.png"><legend>Nodejs</legend></label>
-    <label><img src="imgs/angular.png"><legend>Angular</legend></label>
+    <label><img src="https://img.shields.io/badge/JAVA-43853D?style=for-the-badge&logo=java&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/PHP-43853D?style=for-the-badge&logo=php&logoColor=yellow"></label> 
     <br>
-    <label><img src="imgs/ionic.png"><legend>Ionic</legend></label>
-    <label><img src="imgs/reactnative.png"><legend>React Native</legend></label>
-    <label><img src="imgs/mysql.png"><legend>Mysql</legend></label>
-    <label><img src="imgs/postgresql.png"><legend>Postgree</legend></label>
-    <label><img src="imgs/npm.png"><legend>NPM</legend></label>
+    <label><img src="https://img.shields.io/badge/Ionic-43853D?style=for-the-badge&logo=ionic&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/Angular-43853D?style=for-the-badge&logo=angular&logoColor=yellow"></label>
+    <br>
+    <label><img src="https://img.shields.io/badge/Nodejs-43853D?style=for-the-badge&logo=node.js&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/Yarn-43853D?style=for-the-badge&logo=yarn&logoColor=yellow"></label>
 <p>
 
-<h2>Conhecimentos em:</h2>
-<p>
-   <label><img src="imgs/reactnative.png"><legend>Reactjs</legend></label>
-   <label><img src="imgs/python.png"><legend>Python</legend></label>
-   <label><img src="imgs/c.png"><legend>C#</legend></label> 
-   <label><img src="imgs/mongodb.png"><legend>MongoDB</legend></label>
-   
+<h2 align='center'>Experiencias em:</h2>
+<p align='center'>
+    <label><img src="https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=html5&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=css3&logoColor=yellow"></label>
+    <br>
+    <label><img src="https://img.shields.io/badge/Javascript-43853D?style=for-the-badge&logo=javascript&logoColor=yellow"></label> 
+     <label><img src="https://img.shields.io/badge/Jquery-43853D?style=for-the-badge&logo=jquery&logoColor=yellow"></label>
+    <br>
+     <label><img src="https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=java&logoColor=yellow"></label> 
+     <label><img src="https://img.shields.io/badge/PHP-43853D?style=for-the-badge&logo=php&logoColor=yellow"></label>
+    <br>
+    <label><img src="https://img.shields.io/badge/Nodejs-43853D?style=for-the-badge&logo=node.js&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/Angular-43853D?style=for-the-badge&logo=angular&logoColor=yellow"></label>
+    <br>
+    <label><img src="https://img.shields.io/badge/Ionic-43853D?style=for-the-badge&logo=ionic&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/React-43853D?style=for-the-badge&logo=react&logoColor=yellow"></label>
+    <br>
+    <label><img src="https://img.shields.io/badge/Mysql-43853D?style=for-the-badge&logo=mysql&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/PostgreSql-43853D?style=for-the-badge&logo=postgresql&logoColor=yellow"></label>
+    <br>
+    <label><img src="https://img.shields.io/badge/NPM-43853D?style=for-the-badge&logo=npm&logoColor=yellow"></label>
 <p>
 
-<h3>Novidades</h3>
-
+<h2 align='center'>Conhecimentos em:</h2>
+<div align='center'>
+    <label><img src="https://img.shields.io/badge/ReactNative-43853D?style=for-the-badge&logo=react&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=yellow"></label>
+    <br>
+    <label><img src="https://img.shields.io/badge/CSHARP-43853D?style=for-the-badge&logo=c#&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=yellow"></label>   
+</div>
+<div align='center'>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derio123&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derio123&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+</div>
