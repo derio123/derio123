@@ -31,7 +31,7 @@ para empresas e todo o processo de formação na graduação.</p>
 <h2>Conhecimentos em:</h2>
 <p>
    <label><img src="imgs/python.png"><legend>Python</legend></label>
-   <label><img src="imgs/c#.png"><legend>C#</legend></label> 
+   <label><img src="imgs/c.png"><legend>C#</legend></label> 
    <label><img src="imgs/mongodb.png"><legend>MongoDB</legend></label>
    
 <p>
