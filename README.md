@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=derio123)
 
-<p align='center'>Olá meu nome é Dério Matheus e sou desenvolvedor de sistemas, criador de logotipos, edição de videos e outros serviços.
+<p align='center'>Olá meu nome é Dério Matheus e sou desenvolvedor fullstack em muitas linguagens e frameworks e bibliotecas, criador de logotipos, edição de videos e outros serviços.
 Neste perfil você encontrar vai encontrar os meus projetos desenvolvidos, minhas experiencias, alguns dos projetos pessoais, 
 desenvolvidos para empresas e todo o processo de formação na graduação.</p>
 
@@ -51,6 +51,10 @@ desenvolvidos para empresas e todo o processo de formação na graduação.</p>
     <br>
     <label><img src="https://img.shields.io/badge/CSHARP-43853D?style=for-the-badge&logo=c#&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=yellow"></label>   
+    <marquee behavior="up" direction="right">
+        <h4><span class="badge badge-primary">
+        Em breve novos conhecimentos</span></h4>
+    </marquee>
 </div>
 <div align='center'>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derio123&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
