@@ -49,7 +49,7 @@ desenvolvidos para empresas e todo o processo de formação na graduação.</p>
     <label><img src="https://img.shields.io/badge/ReactNative-43853D?style=for-the-badge&logo=react&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=yellow"></label>
     <br>
-    <label><img src="https://img.shields.io/badge/C-%43853D?style=for-the-badge&logo=c-sharp&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/-C-%43853D?style=for-the-badge&logo=c-sharp&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=yellow"></label>   
     <marquee behavior="up" direction="right">
         <h4><span class="badge badge-primary">
