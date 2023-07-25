@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=derio123)
 
-<p align='center'>Olá meu nome é Dério Matheus e sou desenvolvedor fullstack em muitas linguagens e frameworks e bibliotecas, criador de logotipos, edição de videos e outros serviços.
+<p align='center'>Olá meu nome é Dério Matheus e sou desenvolvedor fullstack em muitas linguagens, frameworks e bibliotecas, criador de logotipos, edição de videos e outros serviços.
 Neste perfil você encontrar vai encontrar os meus projetos desenvolvidos, minhas experiencias, alguns dos projetos pessoais, 
 desenvolvidos para empresas e todo o processo de formação na graduação.</p>
 
@@ -11,7 +11,7 @@ desenvolvidos para empresas e todo o processo de formação na graduação.</p>
     <label><img src="https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=css3&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/Javascript-43853D?style=for-the-badge&logo=javascript&logoColor=yellow"></label> 
     <br>
-    <label><img src="https://img.shields.io/badge/JAVA-43853D?style=for-the-badge&logo=java&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=openjdk&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/PHP-43853D?style=for-the-badge&logo=php&logoColor=yellow"></label> 
     <br>
     <label><img src="https://img.shields.io/badge/Ionic-43853D?style=for-the-badge&logo=ionic&logoColor=yellow"></label>
@@ -49,7 +49,7 @@ desenvolvidos para empresas e todo o processo de formação na graduação.</p>
     <label><img src="https://img.shields.io/badge/ReactNative-43853D?style=for-the-badge&logo=react&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=yellow"></label>
     <br>
-    <label><img src="https://img.shields.io/badge/CSHARP-43853D?style=for-the-badge&logo=c#&logoColor=yellow"></label>
+    <label><img src="https://img.shields.io/badge/C-%43853D?style=for-the-badge&logo=c-sharp&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodb&logoColor=yellow"></label>   
     <marquee behavior="up" direction="right">
         <h4><span class="badge badge-primary">
