@@ -2,12 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=derio123)
 
-<p align='center'>Olá meu nome é Dério Matheus e sou desenvolvedor fullstack em muitas linguagens, frameworks e bibliotecas, criador de logotipos, edição de videos e outros serviços.
-Neste perfil você encontrar vai encontrar os meus projetos desenvolvidos, minhas experiencias, alguns dos projetos pessoais, 
-desenvolvidos para empresas e todo o processo de formação na graduação.</p>
-
-<h2 align='center'>Ferramentas favoritas:</h2>
 <p align='center'>
+Olá meu nome é Dério Matheus e sou desenvolvedor fullstack em muitas linguagens, frameworks e bibliotecas, criador de logotipos, edição de videos e outros serviços.
+Neste perfil você encontrar vai encontrar os meus projetos desenvolvidos, minhas experiencias, alguns dos projetos pessoais, desenvolvidos para empresas e todo o processo de formação na graduação.
+</p>
+
+
+<div align='center'>
+<h2 align='center'>Ferramentas favoritas:</h2>
     <label><img src="https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=css3&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/Javascript-43853D?style=for-the-badge&logo=javascript&logoColor=yellow"></label> 
     <br>
@@ -19,10 +21,11 @@ desenvolvidos para empresas e todo o processo de formação na graduação.</p>
     <br>
     <label><img src="https://img.shields.io/badge/Nodejs-43853D?style=for-the-badge&logo=node.js&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/Yarn-43853D?style=for-the-badge&logo=yarn&logoColor=yellow"></label>
-<p>
+</div>
 
+
+<div align='center'>
 <h2 align='center'>Experiencias em:</h2>
-<p align='center'>
     <label><img src="https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=html5&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=css3&logoColor=yellow"></label>
     <br>
@@ -42,10 +45,10 @@ desenvolvidos para empresas e todo o processo de formação na graduação.</p>
     <label><img src="https://img.shields.io/badge/PostgreSql-43853D?style=for-the-badge&logo=postgresql&logoColor=yellow"></label>
     <br>
     <label><img src="https://img.shields.io/badge/NPM-43853D?style=for-the-badge&logo=npm&logoColor=yellow"></label>
-<p>
+</div>
 
-<h2 align='center'>Conhecimentos em:</h2>
 <div align='center'>
+<h2 align='center'>Conhecimentos em:</h2>
     <label><img src="https://img.shields.io/badge/ReactNative-43853D?style=for-the-badge&logo=react&logoColor=yellow"></label>
     <label><img src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=yellow"></label>
     <br>
